@@ -4,8 +4,7 @@ MVVM With Retrofit and Recyclerview in Kotlin
 
 MVVM architecture is a Model-View-ViewModel architecture that removes the tight coupling between each component.
 Also, in this architecture, the children don’t have a direct reference to the parent, they only have the reference by observables.
-Here Remote Source is transfering data and invoke the data to observer listening to the API.
-
+Here Remote Source is transferring data and invoke the data to observer listening to the API.
 
 Add the following dependencies in your app level build.gradle.
 
